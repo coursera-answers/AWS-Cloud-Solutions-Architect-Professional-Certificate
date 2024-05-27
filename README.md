@@ -2,7 +2,7 @@
 
 1. AWS Cloud Technical Essentials
 
-2. Architecting Solutions on AWS
+2. [Architecting Solutions on AWS](https://teamscloud.blogspot.com/2024/05/coursera-architecting-solutions-on-aws.html)
 
 3. Introduction to Designing Data Lakes on AWS
 
